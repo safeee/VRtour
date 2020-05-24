@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-public class VRCamera : MonoBehaviour
+public class DragCamera : MonoBehaviour
 { // flag to keep track whether we are dragging or not
   public  bool isDragging = false;
 
